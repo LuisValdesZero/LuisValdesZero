@@ -30,8 +30,8 @@ Additionally, I’ve delivered workshops on cost-efficient cloud strategies, ser
 
 ## 📫 How to reach me
 - Email: luis@valdes.com.br
-- Blog: https://valdes.com.br
-- X:       [@LuisValdesZero](https://twitter.com/LuisValdesZero)
+- Website: https://www.valdes.com.br
+- X:       [@LuisValdesZero](https://twitter.com/luisvaldes0x0)
 - LinkedIn: https://www.linkedin.com/in/luisvaldeszero
 
 <br>
