@@ -58,3 +58,7 @@ Additionally, I’ve delivered workshops on cost-efficient cloud strategies, ser
     </td>
   </tr>
 </table>
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=LuisValdesZero&hide_border=true)
