@@ -1,37 +1,69 @@
 ### Hello World 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/LuisValdesZero?label=Follow&style=social)](https://twitter.com/LuisValdesZero)
+[![X](https://img.shields.io/badge/X-@LuisValdesZero-000000?logo=x&logoColor=white)](https://x.com/LuisValdesZero)
 [![Website](https://img.shields.io/badge/Website-valdes.com.br-blue)](https://valdes.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luisvaldeszero-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisvaldeszero)
 
+I'm a software engineer with 10+ years building cloud platforms, developer infrastructure, and AI systems. My career runs through **AWS**, **Stripe**, and **CopilotKit**. Today I lead engineering at **[Aratiri Tecnologías](https://aratiri.cloud)** from Ciudad del Este, Paraguay 🇵🇾, with a presence in São Paulo, Brazil 🇧🇷.
 
-I’m a software engineer with extensive experience in designing and implementing scalable cloud architectures, modernizing applications, and driving DevOps excellence. With broad experience in Python, JavaScript, and TypeScript, I have developed AWS-based solutions using Amazon Elastic Container Service (ECS) with Fargate and Auto Scaling groups, AWS Lambda, AWS Amplify Gen 2, Amazon OpenSearch Service, AWS AppSync, and Amazon API Gateway to optimize costs and ensure seamless orchestration of workloads.
+**What I'm building now**
 
-My expertise includes building serverless architectures, deploying applications on Kubernetes using Kustomize and Helm charts, creating CI/CD pipelines with modern tools, and implementing robust monitoring solutions with Grafana, Prometheus, and Loki. I’ve also worked on operational reliability for payment systems, ensuring compliance and addressing fraud detection.
+- 🤖 **Multi-agent AI platforms.** LangGraph agents with a supervisor, wired to Next.js through CopilotKit and AG-UI. Memory is tiered on PostgreSQL + pgvector, with self-hosted embeddings and reranking. Every tool call passes a guard layer that checks policy, issues scoped credentials, and writes an audit record.
+- ⚙️ **Self-managed cloud infrastructure.** HashiCorp Nomad, Consul, and Vault clusters on DigitalOcean with SPIFFE/SPIRE workload identity. Nomad job specs live in a GitOps state repo with digest-pinned images, fronted by Cloudflare.
+- 🧠 **Self-hosted LLM inference.** vLLM on rented GPUs, plus an in-house LLM gateway for multi-tenant usage and billing.
+- 💬 **Conversational commerce.** WhatsApp agents that connect to a per-tenant ERP so small businesses can run sales, catalog, and finance from a chat.
+- 📡 **Wireless security hardware.** A detection-only WiFi/BLE/RF intrusion-detection appliance built on Raspberry Pi CM5.
 
-Additionally, I’ve delivered workshops on cost-efficient cloud strategies, serverless computing, and container workloads, while modernizing legacy systems, enabling secure, scalable infrastructures, and streamlining application delivery with industry best practices.
+**Before that:** I designed AWS architectures on ECS/Fargate, Lambda, Amplify Gen 2, AppSync, API Gateway, and OpenSearch. I ran Kubernetes with Helm and Kustomize, built observability stacks on Grafana, Prometheus, and Loki, and worked on operational reliability and fraud detection for payment systems. I've also taught workshops on cost-efficient cloud, serverless, and container workloads.
 
 ## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational&logo=python)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
-![](https://img.shields.io/badge/Infra-Terraform-7B42BC?logo=terraform&logoColor=white)
-![](https://img.shields.io/badge/Infra-AWS_CDK-FF9900?logo=awscdk&logoColor=white)
-![](https://img.shields.io/badge/AWS-Lambda-FF9900?logo=awslambda&logoColor=white)
-![](https://img.shields.io/badge/AWS-AppSync-FF4F8B?logo=awsappsync&logoColor=white)
-![](https://img.shields.io/badge/Amazon-API_Gateway-FF4F00?logo=amazonapigateway&logoColor=white)
-![](https://img.shields.io/badge/Amazon-ECS-FF9900?logo=amazonecs&logoColor=white)
-![](https://img.shields.io/badge/Amazon-EKS-FF9900?logo=amazoneks&logoColor=white)
-![](https://img.shields.io/badge/Amazon-EC2-FF9900?logo=amazonec2&logoColor=white)
 
+**Languages & Frontend**
+![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
+**AI / ML**
+![](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
+![](https://img.shields.io/badge/CopilotKit-6766FC)
+![](https://img.shields.io/badge/vLLM-30A2FF)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/OpenRouter-6566F1)
+![](https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white)
+
+**Platform & Infrastructure**
+![](https://img.shields.io/badge/Nomad-00CA8E?logo=nomad&logoColor=white)
+![](https://img.shields.io/badge/Consul-F24C53?logo=consul&logoColor=white)
+![](https://img.shields.io/badge/Vault-FFEC6E?logo=vault&logoColor=black)
+![](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![](https://img.shields.io/badge/Packer-02A8EF?logo=packer&logoColor=white)
+![](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![](https://img.shields.io/badge/SPIFFE%2FSPIRE-0B2A4A)
+![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+**Cloud & Data**
+![](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
+![](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+
+**Observability**
+![](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![](https://img.shields.io/badge/Loki-F46800?logo=grafana&logoColor=white)
 
 ## 📫 How to reach me
+
 - Email: luis@valdes.com.br
-- Website: https://www.valdes.com.br
-- X:       [@LuisValdesZero](https://twitter.com/luisvaldes0x0)
+- Website: https://valdes.com.br
+- X: [@luisvaldes0x0](https://x.com/luisvaldes0x0)
 - LinkedIn: https://www.linkedin.com/in/luisvaldeszero
 
 <br>
@@ -43,18 +75,18 @@ Additionally, I’ve delivered workshops on cost-efficient cloud strategies, ser
   </tr>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisValdesZero&theme=zenburn" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisValdesZero&theme=zenburn" alt="Repos Per Language">
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisValdesZero&theme=zenburn" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisValdesZero&theme=zenburn" alt="Most Commit Language">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisValdesZero&theme=zenburn" alt="Stats">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisValdesZero&theme=zenburn" alt="Stats">
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuisValdesZero&theme=zenburn&utcOffset=-3" alt="Productive Time Card">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuisValdesZero&theme=zenburn&utcOffset=-3" alt="Productive Time Card">
     </td>
   </tr>
 </table>
