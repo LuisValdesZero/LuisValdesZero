@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-[![X](https://img.shields.io/badge/X-@LuisValdesZero-000000?logo=x&logoColor=white)](https://x.com/LuisValdesZero)
+[![X](https://img.shields.io/badge/X-@luisvaldes0x0-000000?logo=x&logoColor=white)](https://x.com/luisvaldes0x0)
 [![Website](https://img.shields.io/badge/Website-valdes.com.br-blue)](https://valdes.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luisvaldeszero-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisvaldeszero)
 
