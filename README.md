@@ -12,7 +12,7 @@ I'm a software engineer with 10+ years building cloud platforms, developer infra
 - ⚙️ **Self-managed cloud infrastructure.** HashiCorp Nomad, Consul, and Vault clusters on DigitalOcean with SPIFFE/SPIRE workload identity. Nomad job specs live in a GitOps state repo with digest-pinned images, fronted by Cloudflare.
 - 🧠 **Self-hosted LLM inference.** vLLM on rented GPUs, plus an in-house LLM gateway for multi-tenant usage and billing.
 - 💬 **Conversational commerce.** WhatsApp agents that connect to a per-tenant ERP so small businesses can run sales, catalog, and finance from a chat.
-- 📡 **Wireless security hardware.** A detection-only WiFi/BLE/RF intrusion-detection appliance built on Raspberry Pi CM5.
+- 📡 **Wireless security hardware.** A detection-only WiFi intrusion-detection appliance built on Raspberry Pi CM5 that spots rogue access points and wireless attacks.
 
 **Before that:** I designed AWS architectures on ECS/Fargate, Lambda, Amplify Gen 2, AppSync, API Gateway, and OpenSearch. I ran Kubernetes with Helm and Kustomize, built observability stacks on Grafana, Prometheus, and Loki, and worked on operational reliability and fraud detection for payment systems. I've also taught workshops on cost-efficient cloud, serverless, and container workloads.
 
